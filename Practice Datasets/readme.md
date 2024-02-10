@@ -1,0 +1,1 @@
+The datassets mentioned here are for practice purposes. These datasets should strictly be used for practice and learning purposes only. Distribution and claims made on the data will be considered a copyriight violation.
