@@ -4,4 +4,4 @@ These datasets should strictly be used for practice and learning purposes only.
 
 Distribution of the data will be considered a copyright violation.
 
-Claims made to any authority based on this data will be considered baseless.
+Claims made to any authority based on the findings from these datasets will be considered baseless.
